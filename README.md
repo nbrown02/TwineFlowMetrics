@@ -11,6 +11,5 @@
 - Has a Flow Metrics landing page
 - This can click through to any of the four charts
 - There is an end-to-end journey for the Throughput metric
-- No images of charts atm (as need to be on NBS network to get these)
+- Placeholder images for Throughput charts (using Medium blog post)
 - You can also click through to a help page which links to an external email (currently my personal email)
-- Using 
