@@ -8,9 +8,6 @@
 - If they try attempt another (third experiment) they get redirected to focus on a different metric, as they should be trying to balance them
 
 ## Current version
-- Has a Flow Metrics landing page
-- This can click through to any of the four charts
-- There is an end-to-end journey for the Throughput metric
-- No images of charts atm (as need to be on NBS network to get these)
+- Has a Flow Metrics landing page - this can click through to any of the four charts
+- There is an end-to-end journey for the Throughput metric, albeit with placeholder images for Throughput charts (using those from the Medium blog post)
 - You can also click through to a help page which links to an external email (currently my personal email)
-- Using 
