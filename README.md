@@ -16,9 +16,11 @@
 * Add proper images for charts showing impact of experiments
 * <strike>Add NBS logo</strike>
 * <strike>Change background to be white not black</strike>
-* Add NBS styling, 
+* Check for any spelling errors
+* Check for any broken links
+* <strike>Add NBS styling</strike>
   - <strike>Navy Header (#002878)</strike>
   - <strike>Grey Body (#5b6063)</strike>
-  - NBS-medium font
+  - <strike>NBS-medium font</strike>
   - <strike>Navy links, red on hover (#dc291e)</strike>
   - <strike>White background (#fff)</strike>
