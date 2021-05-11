@@ -11,3 +11,8 @@
 - Has a Flow Metrics landing page - this can click through to any of the four charts
 - There is an end-to-end journey for the Throughput metric, albeit with placeholder images for Throughput charts (using those from the Medium blog post)
 - You can also click through to a help page which links to an external email (currently my personal email)
+
+## Still to do
+- Add proper images for charts
+- Change background to be white not black
+- Add NBS styling, Header - Navy, Main body - black, possibly turn links into buttons (red background w/ white text?)
