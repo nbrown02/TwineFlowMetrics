@@ -17,8 +17,8 @@
 * <strike>Add NBS logo</strike>
 * <strike>Change background to be white not black</strike>
 * Add NBS styling, 
-  - Navy Header (#002878)
-  - Grey Body (#5b6063)
+  - <strike>Navy Header (#002878)</strike>
+  - <strike>Grey Body (#5b6063)</strike>
   - NBS-medium font
-  - Navy links, red on hover (#dc291e)
-  - White background (#fff)
+  - <strike>Navy links, red on hover (#dc291e)</strike>
+  - <strike>White background (#fff)</strike>
