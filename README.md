@@ -24,8 +24,8 @@ This repository contains:
 - Custom CSS + JS for overlays and dashboard interactivity
 - Hand-generated performance dashboards based on simulated data using [FlowViz](https://github.com/nbrown02/FlowViz)
 
-##💡 Want to Contribute or Adapt?
+## 💡 Want to Contribute or Adapt?
 Feel free to fork or adapt the code for your own learning sessions, retros, or games. Just keep the spirit of experimentation alive. Attribution is appreciated.
 
-##👋 Author
+## 👋 Author
 Created by myself for [Thrivve Partners](https://thrivve.partners)
